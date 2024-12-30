@@ -44,6 +44,6 @@ pip install pyinstaller
 ```
 - Jalankan perintah berikut untuk membuat executable:
 ```console
-python -m PyInstaller --onefile --windowed --add-data "C:\\Windows\\Fonts\\verdana.ttf;." pdf_to_excel_converter.py
+python -m PyInstaller --onefile --windowed --add-data pdf_to_excel_converter.py
 ```
 Setelah proses selesai, Maka akan menemukan file executable di dalam folder dist.
