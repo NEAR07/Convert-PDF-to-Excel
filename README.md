@@ -13,7 +13,7 @@ pip install pdfplumber pandas xlsxwriter
 ```
 
 ## Menyimpan Kode Program
-- Salin kode program di atas.
+- Salin kode program di atas ([PDF to Excel Converter to CADMATIC PartsList](https://github.com/NEAR07/PDF-to-Excel-Converter-to-CADMATIC-PartsList/blob/main/PDF-to-Excel-Converter-to-CADMATIC-PartsList.py)).
 - Buka editor teks (seperti Notepad, VSCode, atau PyCharm) dan tempelkan kode tersebut.
 - Simpan file dengan nama pdf_to_excel_converter.py.
 
